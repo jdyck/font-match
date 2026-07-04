@@ -1,4 +1,4 @@
-# Font Picker
+# Font Match
 
 A local tool for matching a **Google Font** to the text in a mockup. Drop in a
 mockup image (e.g. from ChatGPT), drag a live sample of any Google Font over the

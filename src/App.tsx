@@ -83,7 +83,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="topbar">
-        <h1>Font Picker</h1>
+        <h1>Font Match</h1>
         <span className="tagline">
           Match a Google Font to your mockup — overlay, compare, shortlist.
         </span>
